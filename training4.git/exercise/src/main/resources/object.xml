@@ -1,0 +1,11 @@
+<object class="com.qunar.fresh.Student">
+	<property name="name">
+		<value>${name}</value>
+	</property>
+	<property name="age">
+		<value>${age}</value>
+	</property>
+	<property name="birth">
+		<value>${birth}</value>
+	</property>
+</object>
